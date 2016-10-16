@@ -1,0 +1,19 @@
+// base
+@import 'base/normalize';
+
+// helpers
+@import 'helpers/main-menu';
+
+#main-wrapper{
+  width: 960px;
+  position: relative;
+  margin: auto;
+}
+
+body{
+
+}
+
+.clearfix{
+  clear: both;
+}

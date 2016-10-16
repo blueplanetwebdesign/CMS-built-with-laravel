@@ -1,0 +1,38 @@
+#top-container{
+    .row-one{
+        height: 100px;
+        box-sizing: border-box;
+        padding: 40px;
+
+        .company-logo{
+            float: left;
+        }
+
+        .company-number{
+            float: right;
+        }
+    }
+
+    nav#main-menu {
+
+        background-color: red;
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+
+            li {
+                display: inline-block;
+                padding: 5px 10px;
+
+                a {
+                    display: block;
+                    padding: 6px 12px;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+

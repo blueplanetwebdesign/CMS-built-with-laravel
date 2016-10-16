@@ -1,0 +1,17 @@
+{
+    "name": "bpwd/admin",
+    "description": "Admin Panel",
+    "authors": [
+        {
+            "name": "Andrew Bradley",
+            "email": "andrew@blueplanetwebdesign.co.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+                "src/Helpers/FormBuilder.php",
+                "src/Helpers/AdminToolbar.php"
+        ]
+    }
+}

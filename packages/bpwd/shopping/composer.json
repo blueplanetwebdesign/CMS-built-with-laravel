@@ -1,0 +1,11 @@
+{
+    "name": "bpwd/shopping",
+    "description": "Shopping",
+    "authors": [
+        {
+            "name": "Andrew Bradley",
+            "email": "andrew@blueplanetwebdesign.co.uk"
+        }
+    ],
+    "require": {}
+}

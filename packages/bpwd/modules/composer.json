@@ -1,0 +1,11 @@
+{
+    "name": "bpwd/menus",
+    "description": "Menus",
+    "authors": [
+        {
+            "name": "Andrew Bradley",
+            "email": "andrew@blueplanetwebdesign.co.uk"
+        }
+    ],
+    "require": {}
+}

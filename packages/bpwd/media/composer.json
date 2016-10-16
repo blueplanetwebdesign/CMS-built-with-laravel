@@ -1,0 +1,11 @@
+{
+    "name": "bpwd/media",
+    "description": "Media",
+    "authors": [
+        {
+            "name": "Andrew Bradley",
+            "email": "andrew@blueplanetwebdesign.co.uk"
+        }
+    ],
+    "require": {}
+}

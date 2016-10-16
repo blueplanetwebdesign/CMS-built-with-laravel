@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fields name="params">
+
+	<fieldset name="home-page"
+			label="Home Page"
+		>
+		<field name="first_text_area" type="editor" label="First Text Area" required="true" />
+		<field name="second_text_area" type="editor" label="Second Text Area" required="true" />
+
+	</fieldset>
+</fields>
